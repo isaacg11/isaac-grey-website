@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/isaacg11/isaac-grey-website/static/css/main.24e31710.css",
+    "main.js": "/isaacg11/isaac-grey-website/static/js/main.d4313ba4.js",
+    "static/js/787.e4c0377c.chunk.js": "/isaacg11/isaac-grey-website/static/js/787.e4c0377c.chunk.js",
+    "index.html": "/isaacg11/isaac-grey-website/index.html",
+    "main.24e31710.css.map": "/isaacg11/isaac-grey-website/static/css/main.24e31710.css.map",
+    "main.d4313ba4.js.map": "/isaacg11/isaac-grey-website/static/js/main.d4313ba4.js.map",
+    "787.e4c0377c.chunk.js.map": "/isaacg11/isaac-grey-website/static/js/787.e4c0377c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e31710.css",
+    "static/js/main.d4313ba4.js"
+  ]
+}
